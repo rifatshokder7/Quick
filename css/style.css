@@ -1,0 +1,98 @@
+/* common start */
+  
+body{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #008aff;
+}
+
+/* commom end */
+
+
+
+/* header start */
+
+header{
+	padding: 10px;
+	border-bottom: 2px solid #f0f2f4;}
+
+.wrapper{
+	overflow: hidden;
+	width: 90%;
+	
+	margin: 0 auto;
+}
+.logo{ 
+	float: left;
+	width:5% ; 
+}
+
+
+.logo img{
+	width: 100%;
+}
+
+
+.menu{
+	float: right;
+ width: 50%; 
+}
+
+
+.menu ul{
+	float: right;
+}
+
+
+.menu ul li{
+	float: left;
+	list-style: none;
+
+}
+.menu ul li a{
+	text-decoration: none;
+padding: 0px 25px;
+display: inline-block;}
+
+.menu ul li:last-child a{
+	padding-right: 0;
+}
+
+/* header end */
+
+
+
+.h1{
+
+	margin: 20px 0 10px 360px;
+	font-family: sans-serif;
+	font-size: 50px;
+	color: #000066;
+	font-weight: 700;
+
+
+}
+.h2{
+	margin: 20px 0 0 430px;
+	font-family: sans-serif;
+	font-size: 60px;
+}
+
+h3{
+	font-family: sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+}
+
+.wrapper1{
+	overflow: hidden;
+	width: 90%;
+	margin: 10px auto;
+	color: black;
+	}
+
+
+
+	.logo2{ 
+	margin-left: 330px; }
